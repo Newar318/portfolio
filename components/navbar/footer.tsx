@@ -45,7 +45,7 @@ export default function Footer() {
               <Github className="w-6 h-6" />
             </a>
             <a
-              href="https://linkedin.com/in/https://www.linkedin.com/in/asbin-shrestha-02441b32a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+              href="https://www.linkedin.com/in/asbin-shrestha-02441b32a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-blue-500 transition"
