@@ -19,7 +19,7 @@ export default function HomePage() {
         {/* Social Icons */}
         <div className="flex space-x-5 mt-2">
           <a
-            href="#"
+            href="https://www.facebook.com/share/17K7UEWyTb/?mibextid=wwXIfr"
             className="text-gray-700 hover:text-blue-600 transition"
             aria-label="Facebook"
           >
