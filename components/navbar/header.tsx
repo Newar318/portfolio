@@ -17,7 +17,7 @@ export default function Navbar() {
     { label: "Contact", link: "/contact" },
   ];
 
-  const handleNavigate = (link) => {
+  const handleNavigate = (link:string) => {
     router.push(link); // navigate to the route
     setIsOpen(false);  // close mobile menu
   };
