@@ -21,7 +21,7 @@ export default function Footer() {
           <h3 className="text-xl font-bold text-green-500 mb-2">Follow Me</h3>
           <div className="flex space-x-4">
             <a
-              href="https://facebook.com/yourprofile"
+              href="https://www.facebook.com/share/17K7UEWyTb/?mibextid=wwXIfr"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-green-500 transition"
