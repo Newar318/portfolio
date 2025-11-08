@@ -29,7 +29,7 @@ export default function Footer() {
               <Facebook className="w-6 h-6" />
             </a>
             <a
-              href="https://instagram.com/yourprofile"
+              href="https://www.instagram.com/asbin_stha.7?igsh=MWtvMzBnZjk1djM4eg%3D%3D&utm_source=qr"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-pink-500 transition"
@@ -37,7 +37,7 @@ export default function Footer() {
               <Instagram className="w-6 h-6" />
             </a>
             <a
-              href="https://github.com/yourprofile"
+              href="https://github.com/https://github.com/Newar318"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-400 transition"
@@ -45,7 +45,7 @@ export default function Footer() {
               <Github className="w-6 h-6" />
             </a>
             <a
-              href="https://linkedin.com/in/yourprofile"
+              href="https://linkedin.com/in/https://www.linkedin.com/in/asbin-shrestha-02441b32a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-blue-500 transition"
