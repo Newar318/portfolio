@@ -23,7 +23,7 @@ export default function AboutSection() {
           About Me
         </h2>
         <p className="text-gray-700 text-base md:text-lg leading-relaxed">
-          Hi, I’m <span className="font-semibold text-gray-800">Asbin</span>, a
+          Hi, I am <span className="font-semibold text-gray-800">Asbin</span>, a
           dedicated <span className="text-green-600 font-medium">Flutter Developer</span> 
           who loves creating elegant and functional mobile applications. My focus
           is on delivering smooth user experiences with clean and efficient code.
