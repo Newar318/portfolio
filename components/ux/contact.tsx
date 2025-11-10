@@ -86,7 +86,7 @@ export default function ContactSection() {
       {/* Contact Info */}
       <div className="text-center mt-8 text-gray-700">
         <p>You can also reach me at:</p>
-        <p className="font-semibold text-green-700">asbin@example.com</p>
+        <p className="font-semibold text-green-700">asbinshrestha309@gmail.com</p>
       </div>
     </section>
   );
